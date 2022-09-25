@@ -21,8 +21,8 @@ export const setPostDetails = (post: Post | null) => {
   return { type: SET_POST_DETAILS, payload: post };
 };
 
-export const setIsLoading = (isLaoding: boolean) => {
-  return { type: SET_IS_LOADING_POST, payload: isLaoding };
+export const setIsLoading = (isLoading: boolean) => {
+  return { type: SET_IS_LOADING_POST, payload: isLoading };
 };
 
 export const fetchPostsList: any = () => {
