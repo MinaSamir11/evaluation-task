@@ -4,7 +4,7 @@ breadfast evaluation task
 # Details: 
 - i use the latest version react native
 - i have used redux.
-- i build animation popup comment with my react native package.
+- i build animation popup comment with my [react native package](https://github.com/MinaSamir11/react-native-swipe-modal-up-down).
 - i choose from https://gorest.co.in/ to work with graphQl endpoint, using apollo.
 - i didn't care in this project about responive in diffrent devices/ also splash logo went wrong due to ignoring sizes.
 - i used typescript to build this project.
