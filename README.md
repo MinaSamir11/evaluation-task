@@ -13,8 +13,8 @@ breadfast evaluation task
 # screenshots:
 [![N|Solid](https://github.com/MinaSamir11/evaluation-task/raw/master/screenshots/1.png)](https://github.com/MinaSamir11/evaluation-task/raw/master/screenshots/1.png)
 
-[![N|Solid](https://github.com/MinaSamir11/evaluation-task/raw/master/screenshots/1.png)](https://github.com/MinaSamir11/evaluation-task/raw/master/screenshots/2.png)
+[![N|Solid](https://github.com/MinaSamir11/evaluation-task/raw/master/screenshots/2.png)](https://github.com/MinaSamir11/evaluation-task/raw/master/screenshots/2.png)
 
 
-[![N|Solid](https://github.com/MinaSamir11/evaluation-task/raw/master/screenshots/1.png)](https://github.com/MinaSamir11/evaluation-task/raw/master/screenshots/3.png)
+[![N|Solid](https://github.com/MinaSamir11/evaluation-task/raw/master/screenshots/3.png)](https://github.com/MinaSamir11/evaluation-task/raw/master/screenshots/3.png)
 
